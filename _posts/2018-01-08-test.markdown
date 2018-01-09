@@ -3,21 +3,21 @@ author: HSRai
 comments: true
 date: 2018-01-08 06:41:53.259238
 layout: post
-title: Test
-slug: test
+title: Syllabus
+slug: Numerical Methods
 ---
 
 1. Solution of Non-Linear Equations:
- 1. Algebraic equations,
- 1. Transcendental equations.
-Solution of linear simultaneous Equations by different methods using:
-1. Elimination,
-2. Iteration,
-3. Inversion,
-4. Gauss-Jordan and
-5. Gauss Siedel iteration method
-6. Factorisation method
-Ill conditioned matrix.
+   1. Algebraic equations,
+   1. Transcendental equations.
+1. Solution of linear simultaneous Equations by different methods using:
+   1. Elimination,
+   2. Iteration,
+   3. Inversion,
+   4. Gauss-Jordan and
+   5. Gauss Siedel iteration method
+   6. Factorisation method
+   - Ill conditioned matrix.
 Numerical integration:
 1. Newton Cotes closed quadrature
 1. Trapezoidal rule

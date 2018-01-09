@@ -1,0 +1,13 @@
+---
+author: HSRai
+comments: true
+date: 2018-01-08 06:41:53.259238
+layout: post
+title: Test
+slug: test
+---
+NumericalMethods
+
+&nbsp;
+
+ABC

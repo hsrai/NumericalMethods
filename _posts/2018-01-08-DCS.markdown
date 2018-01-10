@@ -47,9 +47,9 @@ note mentioned below) in Examination.
 
 ## References:
 
-1. Reinforced Concrete Design; Pillai & Menon; Tata McGraw-Hill Education
-2. Limit state Design of Reinforced Concrete; Varghese P C; Prentice-Hall of India Pvt. Ltd”.
-3. Reinforced Cement Concrete, Mallick and Rangasamy; Oxford-IBH.
+* Reinforced Concrete Design; Pillai & Menon; Tata McGraw-Hill Education
+* Limit state Design of Reinforced Concrete; Varghese P C; Prentice-Hall of India Pvt. Ltd”.
+* Reinforced Cement Concrete, Mallick and Rangasamy; Oxford-IBH.
 
 ## BIS Codes of practice and Design Hand References:
 

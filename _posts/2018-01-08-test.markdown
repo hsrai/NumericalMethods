@@ -18,11 +18,11 @@ slug: Numerical Methods
    5. Gauss Siedel iteration method
    6. Factorisation method
    - Ill conditioned matrix.
-Numerical integration:
-1. Newton Cotes closed quadrature
-1. Trapezoidal rule
-2. Simpson’s 1/3 rd rule
-3. 3/8 th rule method
+1. Numerical integration:
+   1. Newton Cotes closed quadrature
+   1. Trapezoidal rule
+   1. Simpson's 1/3 rd rule
+   1. 3/8 th rule method
 ?Homogeneous
 Eigen Value problem
 Non-linear equations

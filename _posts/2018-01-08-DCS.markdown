@@ -44,11 +44,15 @@ note mentioned below) in Examination.
 7. Introduction to water retaining structures
    1. Design of circular water tank resting on ground
    2. Design of rectangular water tanks resting on ground
+
 ## References:
+
 1. Reinforced Concrete Design; Pillai & Menon; Tata McGraw-Hill Education
 2. Limit state Design of Reinforced Concrete; Varghese P C; Prentice-Hall of India Pvt. Ltd”.
 3. Reinforced Cement Concrete, Mallick and Rangasamy; Oxford-IBH.
+
 ## BIS Codes of practice and Design Hand References:
+
 1. IS 456-2000- Indian Standard. Plain and Reinforced concrete -Code of practice
 2. IS 3370- Code of practice for concrete structures for storage of liquids
 3. Design Aid SP 16

@@ -43,3 +43,9 @@ slug: Numerical Methods
    1. Galerkin's method of least square
    1. collocation points
    1. Runge kutta Method
+
+# Useful links
+
+1. https://hplgit.github.io/prog4comp/doc/pub/p4c_Matlab.pdf
+1. https://github.com/jishnurajendran/Numerical-analysis
+

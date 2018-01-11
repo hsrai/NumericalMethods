@@ -46,6 +46,6 @@ slug: Numerical Methods
 
 # Useful links
 
-1. https://hplgit.github.io/prog4comp/doc/pub/p4c_Matlab.pdf
-1. https://github.com/jishnurajendran/Numerical-analysis
+1. <https://hplgit.github.io/prog4comp/doc/pub/p4c_Matlab.pdf>
+1. <https://github.com/jishnurajendran/Numerical-analysis>
 
